@@ -1,4 +1,4 @@
 google-homepage
 ===============
 
-Recreation of the Google homepage. Website: www.theodinproject.com
+Recreation of the Google homepage. First clone of Google.
