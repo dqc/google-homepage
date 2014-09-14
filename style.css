@@ -1,5 +1,5 @@
 body {
-	font-family: Helvetica, sans-serif;
+	font-family: Sans-serif;
 	width: 100%;
 }
 
@@ -49,4 +49,56 @@ p > a {
 	float: right;
 	margin-right: -103px;
 	padding-top: 34px;
+}
+
+.sign-in img {
+	border-radius: 4px;
+}
+
+#logo {
+	text-align: center;
+	vertical-align: middle;
+	position: relative;
+	top: 115px;
+}
+
+.input-area {
+	display: block;
+	width: 600px;
+	height: 95px;
+	margin: 0 auto;
+	position: relative;
+	top: 90px;
+	right: 20px;
+}
+
+.input-box {
+	height: 35px;
+	position: relative;
+	top: 5px;
+	text-align: center;
+}
+input {
+	width: 530px;
+	height: 30px;
+	border-radius: 4px;
+	padding-left: 4px;
+}
+
+.input-box img {
+	position: relative;
+	right: 30px;
+	top: 10px;
+}
+
+.search-buttons {
+	text-align: center;
+	position: relative;
+	top: 18px;
+}
+
+.search-buttons button {
+	margin-left: 20px;
+	margin-right: 20px;
+	border-radius: 4px;
 }
